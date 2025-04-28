@@ -1,0 +1,24 @@
+{
+    "id": 301, 
+    "name": "EDWARD YAMSON", 
+    "email": "sample@grc.com", 
+    "phone": "09063130054", 
+    "address": {
+        "house number ": 4271,   
+        "blk": "BLK 7",
+        "street": "SAWATA MAYPAJO",
+           "city" : "CALOOCAN",
+           "barangay" :35,
+            "zip" : 1410
+           
+    },
+    "company": {
+        "name": "FUJISTU" ,
+        "position": "SOFTWARE ENGINEER",
+        "department": "DEVELEPMENT"
+    }
+
+
+
+
+}
